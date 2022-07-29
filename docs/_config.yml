@@ -6,3 +6,14 @@ url: "https://bandokal.github.io"
 
 remote_theme: just-the-docs/just-the-docs
 
+author:
+  name   : "Jason Bandy"
+  avatar : "/assets/images/jb-head.png"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BandoKal"
