@@ -1,1 +1,8 @@
+title: Developer Experience
+description: This site is a working collection of everything I have learned about Developer Experience along my journey.
+baseurl: "/dev-ex"
+url: "https://bandokal.github.io"
+
+
 remote_theme: just-the-docs/just-the-docs
+
